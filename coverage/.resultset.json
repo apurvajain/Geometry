@@ -1,0 +1,47 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/apurvajain/Desktop/Goemetry/lib/shapes.rb": [
+        1,
+        1
+      ],
+      "/Users/apurvajain/Desktop/Goemetry/lib/shapes/rectangle.rb": [
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/apurvajain/Desktop/Goemetry/lib/shapes/side.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1422863641
+  }
+}
