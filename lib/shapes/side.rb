@@ -1,3 +1,4 @@
+#Side take value in milimeter
 class Side
 
 	attr_reader :mm
@@ -11,7 +12,7 @@ class Side
 	end
 
 	def self.new_m(value)
-		self.new_cm(value * 100)
+		self.new(value * 1000)
 	end
 
 end

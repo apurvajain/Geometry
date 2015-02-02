@@ -11,37 +11,37 @@
         1,
         null,
         1,
-        1,
-        1,
+        2,
+        2,
         null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        null
-      ],
-      "/Users/apurvajain/Desktop/Goemetry/lib/shapes/side.rb": [
-        1,
-        null,
-        1,
         null,
         1,
         2,
         null,
         null,
+        null
+      ],
+      "/Users/apurvajain/Desktop/Goemetry/lib/shapes/side.rb": [
         null,
         1,
-        0,
+        null,
+        1,
+        null,
+        1,
+        4,
         null,
         null,
         1,
-        0,
+        1,
+        null,
+        null,
+        1,
+        1,
         null,
         null,
         null
       ]
     },
-    "timestamp": 1422863641
+    "timestamp": 1422867460
   }
 }
